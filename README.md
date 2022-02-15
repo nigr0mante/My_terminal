@@ -14,6 +14,6 @@ Steps to replicate my config. At this moments it has the "transient prompt" enab
 
 3. Copy the PS1 file from this repository
 
-    ```cd $HOME```
+    ```cd $HOME```<br>
     ```gh repo clone nigr0mante/My_terminal <username>/Documents/PowerShell```
     
