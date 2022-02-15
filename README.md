@@ -1,6 +1,6 @@
 # My_terminal
 
-Steps to replicate my config:
+Steps to replicate my config. At this moments it has the "transient prompt" enabled:
 
 1. Install the fonts "CascadiaCode" from [Nerd Fonts](https://www.nerdfonts.com/font-downloads) ([direct link](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip))
 
@@ -13,3 +13,7 @@ Steps to replicate my config:
     ```Install-Module -Name PSReadLine -AllowPrerelease```
 
 3. Copy the PS1 file from this repository
+
+    ```cd $HOME```
+    ```gh repo clone nigr0mante/My_terminal <username>/Documents/PowerShell```
+    
