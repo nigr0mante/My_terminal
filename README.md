@@ -2,7 +2,7 @@
 
 Steps to replicate my config. At this moments it has the "transient prompt" enabled:
 
-1. Install the fonts "CascadiaCode" from [Nerd Fonts](https://www.nerdfonts.com/font-downloads) ([direct link](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip))
+1. Install the fonts "CascadiaCode" from <a href="https://www.nerdfonts.com/font-downloads" target="_blank">Nerd Fonts</a> (<a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip" target="_blank">direct link</a>)
 
 2. Install some packages and utils
 
