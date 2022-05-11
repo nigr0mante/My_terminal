@@ -16,8 +16,9 @@ Steps to replicate my config. At this moments it has the "transient prompt" enab
     ```Install-Module -Name Terminal-Icons -Repository PSGallery```<br>
     ```Install-Module -Name PSReadLine -AllowPrerelease```
 
-5. Copy the PS1 file from this repository
+5. Clone the files from this repository:
 
     ```cd $HOME```<br>
     ```gh repo clone nigr0mante/My_terminal <username>/Documents/PowerShell```
     
+6. Now you must copy/move the .json files inside your 'theme' for Oh-My-Posh folder (by default C:\Users\<username>\AppData\Local\Programs\oh-my-posh\themes)
