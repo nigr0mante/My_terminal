@@ -22,3 +22,8 @@ Steps to replicate my config. At this moments it has the "transient prompt" enab
     ```gh repo clone nigr0mante/My_terminal <username>/Documents/PowerShell```
     
 6. Now you must copy/move the .json files inside your 'theme' for Oh-My-Posh folder (by default C:\Users\<username>\AppData\Local\Programs\oh-my-posh\themes)
+
+*Preview of 'beni-in2lines.json'*
+![beni-in2lines.json](https://i.imgur.com/rayy7ZN.jpg)
+
+*Preview of 'atomic.omp.json'*
