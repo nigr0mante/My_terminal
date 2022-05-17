@@ -27,3 +27,4 @@ Steps to replicate my config. At this moments it has the "transient prompt" enab
 ![beni-in2lines.json](https://i.imgur.com/rayy7ZN.jpg)
 
 *Preview of 'atomic.omp.json'*
+![atomic.omp.json]([img]https://i.imgur.com/7FQ9uS8.png)
